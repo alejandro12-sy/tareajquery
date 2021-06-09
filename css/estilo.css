@@ -1,0 +1,31 @@
+.contendor {
+    text-align: center;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.caja {
+    width: 300px;
+    margin-top: 10px;
+}
+
+.boton {
+    width: 300px;
+    margin-top: 30px;
+}
+
+.H3 {
+    margin: 20PX;
+}
+
+.tabla {
+    width: 500px;
+}
+
+.contenido {
+    margin-top: 20px;
+}
+
+p {
+    text-align: center;
+}
